@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JerameKim
+- 👀 I’m interested in web development and iOS development. 
+- 🌱 I’m currently learning SwiftUI and Vue.js
+- 📫 How to reach me 
+- jerame.y.kim@gmail.com
